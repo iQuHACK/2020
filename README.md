@@ -16,3 +16,4 @@ Once finished, simply send iquhack@mit.edu a zip file of your project. We will u
 #### Qiskit
 - [qiskit.slack.com](https://qiskit.slack.com/)
 - [github.com/Qiskit](https://github.com/Qiskit)
+- [Qiskit Examples](https://qiskit.org/experiments/)

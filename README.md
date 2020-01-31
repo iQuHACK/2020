@@ -1,7 +1,7 @@
 # 2020
 ## Submit a new idea by opening a [new issue](https://github.com/iQuHACK/2020-Ideas/issues/new "go to New Issue")
 
-[![Issue Help](static/issue_help.png)](https://github.com/iQuHACK/2020-Ideas/issues/new "go to New Issue")
+[![Issue Help](static/issue_help.png)](https://github.com/iQuHACK/2020-Ideas/issues "go to Issues")
 
 Keep in mind these ideas are open to the public and not regulated.
 
